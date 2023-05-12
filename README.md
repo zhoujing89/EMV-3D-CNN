@@ -8,7 +8,7 @@ This repository contains the code for **An Ensemble Multi-View 3D Convolution Ne
 - [Model](#model)
 - [Deployment](#Deployment)
 - [Requirements](#requirements)
-
+- [Installation](#Installation)
 ## Introduction
 
 Lung cancer is among the most frequently diagnosed cancers worldwide. However, few studies predict the invasive grades of lung adenocarcinoma, an important task that can assist in planning a suitable surgical approach (lobectomy or sublobar resection) prior to operation. 
@@ -41,4 +41,6 @@ The code is written in Python and requires the following packages:
 * Pandas 1.4.2 
 * Sklearn 1.1.1 
 * Scipy 1.8.1
-
+## Installation
+* Install Python 3.9.12
+* pip install -r requirements.txt
