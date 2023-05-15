@@ -10,7 +10,7 @@ This repository contains the code for **An Ensemble Multi-View 3D Convolution Ne
 - [Requirements](#requirements)
 - [Installation](#Installation)
 
-https://github.com/zhoujing89/EMV-3D-CNN/assets/59469082/1b18265c-8c6f-4570-a43b-66997b0c16f6
+A detailed tutorial video can be found below to guide users through the process of our web-based system at [seeyourlung.com.cn](https://seeyourlung.com.cn).
 
 
 
@@ -35,7 +35,7 @@ We provide the trained models for various 3D medical image analysis tasks, which
 
 ## Deployment
 
-For easier access, we have also implemented the proposed model as a web-based system at [seeyourlung.com.cn](https://seeyourlung.com.cn). By uploading the full original CT images in DICOM format, our algorithm can assign risk grades to pulmonary nodules given the center location of the target lung nodule. A detailed tutorial video can be found below to guide users through the process.
+For easier access, we have also implemented the proposed model as a web-based system at [seeyourlung.com.cn](https://seeyourlung.com.cn). By uploading the full original CT images in DICOM format, our algorithm can assign risk grades to pulmonary nodules given the center location of the target lung nodule. 
 
 
 ![platform.png](https://github.com/zhoujing89/EMV-3D-CNN/blob/main/images/platform.png?raw=true)
