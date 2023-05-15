@@ -19,6 +19,10 @@ We propose an ensemble multi-view 3D convolution neural network (EMV-3D-CNN) mod
 
 Figure 1 shows the flowchart of the proposed EMV-3D-CNN model. It involves three key tasks: diagnosing benign and malignant lung tumors (Task 1), classifying between pre-invasive and invasive lung tumors (Task 2), and identifying the risk stratification (i.e., Grade 1, Grade 2, Grade 3) of invasive lung tumors (Task 3).
 
+
+https://github.com/zhoujing89/EMV-3D-CNN/assets/59469082/db32eb8f-cac9-41ab-8b14-e88e49c45483
+
+
 ![model_flowchart.png](https://github.com/zhoujing89/EMV-3D-CNN/blob/main/images/model_flowchart.png?raw=true)
 
 We provide the trained models for various 3D medical image analysis tasks, which can be downloaded from [BaiduYun](https://pan.baidu.com/s/1Y7WuAdBSMcbuBlf943l04Q?pwd=3acd)(verification code: 3acd).
