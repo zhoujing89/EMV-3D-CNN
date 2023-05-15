@@ -13,6 +13,10 @@ This repository contains the code for **An Ensemble Multi-View 3D Convolution Ne
 Here is a detailed tutorial video can be found below to guide users through our web-based system at [seeyourlung.com.cn](https://seeyourlung.com.cn).
 
 
+https://github.com/zhoujing89/EMV-3D-CNN/assets/59469082/37372814-32a4-415f-be89-2a2de11500f1
+
+
+
 
 ## Introduction
 
