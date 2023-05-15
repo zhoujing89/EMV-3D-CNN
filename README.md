@@ -28,7 +28,8 @@ We provide the trained models for various 3D medical image analysis tasks, which
 
 ## Deployment
 
-For easier access, we have also implemented the proposed model as a web-based system at [seeyourlung.com.cn](https://seeyourlung.com.cn). By uploading the full original CT images in DICOM format, our algorithm can assign risk grades to pulmonary nodules given the center location of the target lung nodule.
+For easier access, we have also implemented the proposed model as a web-based system at [seeyourlung.com.cn](https://seeyourlung.com.cn). By uploading the full original CT images in DICOM format, our algorithm can assign risk grades to pulmonary nodules given the center location of the target lung nodule. A detailed tutorial video can be found below to guide users through the process.
+
 
 ![platform.png](https://github.com/zhoujing89/EMV-3D-CNN/blob/main/images/platform.png?raw=true)
 
