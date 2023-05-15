@@ -19,7 +19,7 @@ https://github.com/zhoujing89/EMV-3D-CNN/assets/59469082/6fe2c684-cf2d-4d7f-a8c8
 
 
 
-For a higher resolution version of the video, please visit [Bilibili](https://www.bilibili.com/video/BV1ch411w7zP/?vd_source=c119f4328157bf56167596e497833c71)
+For a higher resolution version of the video, please visit [Bilibili](https://www.bilibili.com/video/BV1ch411w7zP/?vd_source=c119f4328157bf56167596e497833c71).
 
 ## Introduction
 
