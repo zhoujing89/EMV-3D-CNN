@@ -9,6 +9,11 @@ This repository contains the code for **An Ensemble Multi-View 3D Convolution Ne
 - [Deployment](#Deployment)
 - [Requirements](#requirements)
 - [Installation](#Installation)
+
+https://github.com/zhoujing89/EMV-3D-CNN/assets/59469082/1b18265c-8c6f-4570-a43b-66997b0c16f6
+
+
+
 ## Introduction
 
 Lung cancer is among the most frequently diagnosed cancers worldwide. However, few studies predict the invasive grades of lung adenocarcinoma, an important task that can assist in planning a suitable surgical approach (lobectomy or sublobar resection) prior to operation. 
@@ -18,6 +23,8 @@ We propose an ensemble multi-view 3D convolution neural network (EMV-3D-CNN) mod
 ## Model
 
 Figure 1 shows the flowchart of the proposed EMV-3D-CNN model. It involves three key tasks: diagnosing benign and malignant lung tumors (Task 1), classifying between pre-invasive and invasive lung tumors (Task 2), and identifying the risk stratification (i.e., Grade 1, Grade 2, Grade 3) of invasive lung tumors (Task 3).
+
+
 
 
 
