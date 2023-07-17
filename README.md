@@ -1,6 +1,6 @@
 # EMV-3D-CNN
 
-This repository contains the code for **An Ensemble Multi-View 3D Convolution Neural Network Model for Lung Adenocarcinoma Risk Stratification on Thin Slice Computed Tomography: A Multi-Center Study**.
+This repository contains the code for [**An ensemble deep learning model for risk stratification of invasive lung adenocarcinoma using thin-slice CT**](https://www.nature.com/articles/s41746-023-00866-z).
 
 ## Contents
 
