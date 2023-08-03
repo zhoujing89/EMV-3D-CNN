@@ -28,7 +28,7 @@ The contents of this project are patent-protected and intended for personal lear
 ### Personal Use and Academic Research
 Individual users may use this project for learning and research purposes under the condition that they comply with relevant laws. If you use this project in your research, please cite our work.
 
-> Zhou J, et al. (2023). An ensemble deep learning model for risk stratification of invasive lung adenocarcinoma using thin-slice CT. Nature Digital Medicine. [DOI]
+> Zhou, J., Hu, B., Feng, W. et al. An ensemble deep learning model for risk stratification of invasive lung adenocarcinoma using thin-slice CT. npj Digit. Med. 6, 119 (2023). https://doi.org/10.1038/s41746-023-00866-z
 
 
 
