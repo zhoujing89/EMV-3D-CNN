@@ -3,7 +3,7 @@
 This repository contains the code for [**An ensemble deep learning model for risk stratification of invasive lung adenocarcinoma using thin-slice CT**](https://www.nature.com/articles/s41746-023-00866-z).
 
 ## Contents
-- [Disclaimer and Use Terms](#Disclaimer and Use Terms)
+- [Disclaimer and Use Terms](#DisclaimerandUseTerms)
 - [Introduction](#Introduction)
 - [Model](#model)
 - [Deployment](#Deployment)
