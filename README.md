@@ -26,8 +26,9 @@ All contents within this project, including but not limited to the source code, 
 The contents of this project are patent-protected and intended for personal learning and research use only, not for commercial purposes. Any organizations or individuals are prohibited from using any contents of this project for commercial activities without explicit permission from the author(s) or right holder(s). Any violations will be legally pursued.
 
 ### Personal Use and Academic Research
-Individual users may use this project for learning and research purposes under the condition that they comply with relevant laws. If you use this project in your research, please cite the corresponding reference.
+Individual users may use this project for learning and research purposes under the condition that they comply with relevant laws. If you use this project in your research, please cite our work.
 
+> Zhou J, et al. (2023). An ensemble deep learning model for risk stratification of invasive lung adenocarcinoma using thin-slice CT. Nature Digital Medicine. [DOI]
 
 
 
